@@ -8,6 +8,7 @@ with st.form(key="email_form"):
     raw_message = st.text_area("Your message here")
     message = f"""\
 Subject: New email from {user_email}
+
 From: {user_email} 
 {raw_message} 
 """
