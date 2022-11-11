@@ -13,8 +13,9 @@ with col2:
     content = """
     Hello, my name is Ryan O'Connor. I am recent first class honours graduate in Psychology from 
     South East Technological University, and a current postgraduate student in Data Science at the 
-    Technological University of Dublin. I have built this website to showcase some of my projects that I have built 
-    while learning Python. More projects will be added to it over time as my skills progress. 
+    Technological University of Dublin. I have built this website to showcase some of my projects that I have 
+    completed while learning Python and Data Science. More projects will be added to it over 
+    time as my skills progress. 
     """
     st.info(content)
 

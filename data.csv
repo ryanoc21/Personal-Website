@@ -1,7 +1,7 @@
 title;description;url;image
 Linear Algebra; A selection of Linear Algebra code challenges;https://github.com/ryanoc21/Linear-Algebra;0.png
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://pythonhow.com;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/ryanoc21/Personal-Website;2.png
 PDF Phonebook;A program that allows for the full functionality of a phonebook and generates a pdf summary.;https://github.com/ryanoc21/Phone-Book-PDF-Generate;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/ryanoc21/PDF-Excel-Invoice;4.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
