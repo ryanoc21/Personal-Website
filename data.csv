@@ -2,18 +2,10 @@ title;description;url;image
 Sentiment Analysis; Sentiment Analysis using NLTK;https://github.com/ryanoc21/Sentiment-Analysis-Miracle-in-the-Andes;nlp.png
 Linear Algebra; A selection of Linear Algebra code challenges;https://github.com/ryanoc21/Linear-Algebra;0.png
 Portfolio Website;The code for this website, built entirely in python to showcase projects.;https://github.com/ryanoc21/Personal-Website;2.png
+BMR Webscraper; Web app that calculates BMR using physical dimensions and temperature data scraped from web.;https://github.com/ryanoc21/BMR-Calculator-Using-Web-Scraping/tree/main;kcal.png
 PDF Phonebook;A program that allows for the full functionality of a phonebook and generates a pdf summary.;https://github.com/ryanoc21/Phone-Book-PDF-Generate;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/ryanoc21/PDF-Excel-Invoice;4.png
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
 Calculus; A selection of calculus code challenges;https://github.com/ryanoc21/Calculus-Code;calculus.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;11.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/ryanoc21/Weather-Rest-API/tree/main;6.png
 Automated News Email; A program that takes news headlines and links from the News API and sends it via email automatically.;https://github.com/ryanoc21/news-api-app;email.png
-Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;14.png
-Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png
 Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;16.png
-Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;17.png
-School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
-Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
-Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
